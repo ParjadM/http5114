@@ -76,8 +76,8 @@ Row 2 | Row 2
 
 
 
-This is a blockquote
+This is a blockquote  
 
-[!WARNING]  
-Must add two spaces after closing square bracket
+>[!WARNING]  
+>Must add two spaces after closing square bracket
 
