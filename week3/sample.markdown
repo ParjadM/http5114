@@ -50,3 +50,13 @@ To add an image
 
 <!-- This is a Markdown Comment -->
 
+## Code
+
+You can add `code` inline using singnle tic.
+
+You can add multiple lines of code using three tics:
+
+```javascript
+var test = "string";
+```
+
