@@ -60,3 +60,17 @@ You can add multiple lines of code using three tics:
 var test = "string";
 ```
 
+## Tables
+
+Column 1 | Column 2
+-- | --
+Row 1 | Row 1
+Row 2 | Row 2 
+
+
+
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Row 1    | Row 1    |
+| Row 2    | Row 2    |
+
