@@ -38,3 +38,12 @@ to place a link in Markdown place the clickable test in square brackets adn the 
 [CodeAdam](https://codeadam.com)
 
 https://codeadam.ca
+
+
+## Images
+
+To add an image
+
+![Random Logo](img.jpg)
+
+<img src="img.jpg" width="100" />
