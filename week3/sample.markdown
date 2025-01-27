@@ -46,4 +46,7 @@ To add an image
 
 ![Random Logo](img.jpg)
 
-<img src="img.jpg" width="100" />
+<img src="img.jpg" width="100"/>
+
+<!-- This is a Markdown Comment -->
+
